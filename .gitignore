@@ -1,0 +1,9 @@
+# Virtual environment created by setup_new_pi.sh
+tflite1-env/
+
+# Python
+__pycache__/
+*.pyc
+
+# pyenv build artifacts (if built inside this repo)
+.python-version
